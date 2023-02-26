@@ -51,4 +51,6 @@ Use the game function below to do the following:
 
 function game(user, computer){
     /*add your code here*/
+    console.log("you win!")
+    
 }
