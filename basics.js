@@ -8,10 +8,10 @@ Do the following:
 
    HINT: look up the Number method / Raadi Number Method wax la dhaho
 */
-const nun1 = "1999"
-console.log(num1)
-const num2 ="1998"
-console.log(~num2)
+   const nun1 = "1999"
+   console.log(num1)
+   const num2 = "1998"
+   console.log(~num2)
 /*
 Task: Mood Checker
 
@@ -23,7 +23,14 @@ Do the following:
    3. Else just print 'So moody!' / Hadii kale 'So Moody!' soo saar.
 
 */
-
+var user 
+if (user == happy ) {
+   console.log("Yay me too")
+} else if (user == sad){
+   console.log("Aw Cheer up")
+} else {
+   console.log('So moody!')
+}
 
 /*
 Task: Odd or Even / kisi ama dhaban
